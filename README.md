@@ -32,8 +32,8 @@ when you run this docker image there're server things you need to aware of:
     docker run -d -v ollama:/root/.ollama -v D:\nlp_ollama_flask_github:/app \
     -p 11434:11434 -p 5000:5000 --name ollama_github weitsung50110/rag_ollama_flask_chatbotweb:1.2
 
-I used to write the port tutorial, you can refer to it. >
-[llama_flask_langchain_ChatbotWeb](https://github.com/weitsung50110/llama_flask_langchain_ChatbotWeb)
+I have written the tutorial about how to use docker ports, you can refer to it. >
+[llama_flask_langchain_ChatbotWeb](https://github.com/weitsung50110/llama_flask_langchain_ChatbotWeb?tab=readme-ov-file#port%E7%AB%AF%E5%8F%A3--p-%E8%AC%9B%E8%A7%A3%E6%95%99%E5%AD%B8-%E5%BE%88%E9%87%8D%E8%A6%81)
 
 #### 2. When your container already start sucessfully, you can go inside the container.
 I alredy put all the files in /app., so when you run `exec -it`, you don't need to go to other folder.
