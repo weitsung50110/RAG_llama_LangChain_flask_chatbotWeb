@@ -75,7 +75,7 @@ To upload pdf file and ask question on my website, and the llama3 will be able t
 ![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/2.png)
 
 #### Using LangChain to make LLM as a personal teacher
-![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/2.png)
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/3.png)
 
 #### Using LangChain to make LLM as a personal officer
-![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/2.png)
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/4.png)
