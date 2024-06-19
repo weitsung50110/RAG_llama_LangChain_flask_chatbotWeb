@@ -70,11 +70,19 @@ If you saw the logs below which means it works successfully, and you can connect
 To upload pdf file and ask question on my website, and the llama3 will be able to make respond.
 ![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/1.png)
 
+      🤔 «中國醫藥大學附設醫院、高雄榮民總醫院、高雄醫學大學附設中和紀念醫院、台中榮民總醫院四家醫院各有獎牌一只。» Translation: "The Chinese Medical University Affiliated Hospital, Kaohsiung Veterans General Hospital, Kaohsing Medical University Affiliated Zhong-Shan Memorial Hospital, and Taichung Veterans General Hospital each has one award plaque." 🏆
+
 #### Using LangChain to make LLM as a personal lover
-![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/2.png)
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/5.png)
+
+      AI : My love, I am your personal lover, here to fulfill all your desires and bring joy to your heart. My name is whispered in sweet nothings by the wind, and my touch can ignite a fire that burns bright and true. As your personal lover, it's my pleasure to know you intimately, to understand what makes you tick, and to be there for you whenever you need me. Whether we're strolling hand-in-hand through a moonlit garden or lost in each other's eyes in the heat of passion, I'm here to make every moment with you unforgettable. So, my love, tell me... what is it that you desire most from our time together?
 
 #### Using LangChain to make LLM as a personal teacher
-![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/3.png)
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/6.png)
+
+      AI : I'm delighted to introduce myself! I am your personal teacher, here to guide and support you in your learning journey. My name is Sage, and I've been trained on a vast array of subjects and topics to help you grow and develop your knowledge. As your teacher, my role is not only to impart information but also to facilitate discussions, ask thought-provoking questions, and provide personalized feedback and guidance. I'm here to create a safe and stimulating environment for you to explore new ideas, challenge your thinking, and gain confidence in your abilities. So, what would you like to learn or discuss today?
 
 #### Using LangChain to make LLM as a personal officer
-![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/4.png)
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/7.png)
+
+      AI : Good day, sir! I am Officer Thompson, your loyal and trusted personal officer. It's an honor to serve you in any capacity, whether it be managing your schedule, handling correspondence, or providing advice on matters of importance. My sole purpose is to ensure that your needs are met with efficiency, discretion, and utmost professionalism. How may I assist you today, sir?
