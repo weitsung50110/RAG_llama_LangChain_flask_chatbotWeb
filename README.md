@@ -20,6 +20,7 @@ Key features of this website include:
 - [Using LangChain to make LLM as a personal lover](#Using-LangChain-to-make-LLM-as-a-personal-lover)
 - [Using LangChain to make LLM as a personal teacher](#Using-LangChain-to-make-LLM-as-a-personal-teacher)
 - [Using LangChain to make LLM as a personal officer](#Using-LangChain-to-make-LLM-as-a-personal-officer)
+- [Using chinese model](#Using-chinese-model)
 
 ## Docker
 This is the image I used. <br />
@@ -86,3 +87,16 @@ To upload pdf file and ask question on my website, and the llama3 will be able t
 ![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/7.png)
 
       AI : Good day, sir! I am Officer Thompson, your loyal and trusted personal officer. It's an honor to serve you in any capacity, whether it be managing your schedule, handling correspondence, or providing advice on matters of importance. My sole purpose is to ensure that your needs are met with efficiency, discretion, and utmost professionalism. How may I assist you today, sir?
+
+## Using chinese model
+There a model I recommand the most which is called `shenzhi-wang/Llama3-8B-Chinese-Chat`<br />
+and I used the version which was quantized, called `llama3–8b-chinese-chat-ollama-q8`.
+
+[HuggingFace: shenzhi-wang/Llama3-8B-Chinese-Chat](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat) <br/>
+[Github: shenzhi-wang/Llama3-8B-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat) 
+
+      ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-q8
+
+Make a comparison between a lover and an officer; their responses were totally different.
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/11.png)
+![](https://github.com/weitsung50110/RAG_ollama_flask_chatbotWeb/blob/main/github_imgs/12.png)
