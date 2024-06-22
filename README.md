@@ -29,7 +29,7 @@ This is the image I used. <br />
 when you run this docker image there're server things you need to aware of:
 #### 1. the comment is like this, the port you can change to the port you like.
 
-    docker run -d -v ollama:/root/.ollama -v D:\nlp_ollama_flask_github:/app \
+    docker run -d -v ollama:/root/.ollama \
     -p 11434:11434 -p 5000:5000 --name ollama_github weitsung50110/rag_ollama_flask_chatbotweb:1.4
 
 I have written the tutorial about how to use docker ports, you can refer to it. <br />
